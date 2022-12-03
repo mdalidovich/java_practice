@@ -32,8 +32,6 @@ public class GrossPayInputValidation {
         double gross = rate * hoursWorked;
         System.out.println("Gross pay: $" + gross);
 
-
-
     }
 
 }
